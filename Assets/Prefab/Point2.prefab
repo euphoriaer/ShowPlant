@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4942129545615985507
+--- !u!1 &3782461605100342818
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,43 +8,43 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4942129545615985506}
-  - component: {fileID: 4942129545615985505}
+  - component: {fileID: 3782461605100342819}
+  - component: {fileID: 3782461605100342816}
   m_Layer: 0
-  m_Name: Point Light (14)
+  m_Name: Point2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4942129545615985506
+--- !u!4 &3782461605100342819
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4942129545615985507}
-  m_LocalRotation: {x: -0.07205451, y: 0.70788413, z: -0.68483096, w: -0.15720947}
-  m_LocalPosition: {x: 108.1, y: 10.27, z: 26.1}
+  m_GameObject: {fileID: 3782461605100342818}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 8.88, y: 3.228, z: -27.1}
   m_LocalScale: {x: 0.80915874, y: 0.8091588, z: 0.8091589}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 82.847, y: -95.8, z: -294.496}
---- !u!108 &4942129545615985505
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!108 &3782461605100342816
 Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4942129545615985507}
+  m_GameObject: {fileID: 3782461605100342818}
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.44
+  m_Intensity: 2.38
   m_Range: 20
-  m_SpotAngle: 94.97516
+  m_SpotAngle: 117.82814
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
