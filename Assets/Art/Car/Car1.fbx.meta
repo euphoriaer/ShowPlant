@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: 72f2e45da2ba1cf40828e41e18317782
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: back headlight.004
+    100004: back headlight.005
+    100006: back headlight.006
+    100008: back headlight.007
+    100010: back headlight.008
+    100012: back headlight.009
+    100014: back headlight.010
+    100016: back headlight.011
+    100018: back headlight.012
+    100020: back headlight.014
+    100022: back headlight.015
+    100024: back headlight.016
+    100026: back windows
+    100028: back.001
+    100030: back.002
+    100032: block in
+    100034: block in grill
+    100036: block in.001
+    100038: block in.002
+    100040: body
+    100042: body.001
+    100044: body.002
+    100046: body.003
+    100048: brake.001
+    100050: brake.002
+    100052: brake.003
+    100054: brake.004
+    100056: bumper
+    100058: //RootNode
+    100060: Circle.031
+    100062: Circle.032
+    100064: Cube.008
+    100066: Cylinder.002
+    100068: Cylinder.003
+    100070: Cylinder.004
+    100072: Cylinder.005
+    100074: Cylinder.006
+    100076: Cylinder.007
+    100078: door handle
+    100080: door handle.001
+    100082: door handle.002
+    100084: door handle.003
+    100086: Empty.005
+    100088: Empty.006
+    100090: frame
+    100092: front light
+    100094: front light.001
+    100096: front windows
+    100098: glass
+    100100: glass.001
+    100102: glass.002
+    100104: gril
+    100106: gril.001
+    100108: grill
+    100110: grill.001
+    100112: grill.002
+    100114: grill.003
+    100116: grill.004
+    100118: grill.005
+    100120: grill.006
+    100122: grill.007
+    100124: grill.008
+    100126: grill.009
+    100128: headlight
+    100130: headlight in
+    100132: headlight in.001
+    100134: headlight in.002
+    100136: headlight in.003
+    100138: headlight.001
+    100140: headlight.002
+    100142: headlight.003
+    100144: headlight.004
+    100146: headlight.005
+    100148: headlight.006
+    100150: headlight.007
+    100152: headlight.008
+    100154: headlight.009
+    100156: headlight.010
+    100158: headlight.011
+    100160: headlight.012
+    100162: headlight.013
+    100164: in headlight
+    100166: in mirror
+    100168: light
+    100170: light.001
+    100172: light.002
+    100174: light.003
+    100176: light.004
+    100178: light.005
+    100180: light.006
+    100182: logo
+    100184: logo.001
+    100186: logo.002
+    100188: logo.003
+    100190: logo.004
+    100192: mirror
+    100194: mirror.001
+    100196: pilar
+    100198: pillar.001
+    100200: rotor.001
+    100202: rotor.002
+    100204: rotor.003
+    100206: rotor.004
+    100208: rubber.001
+    100210: side
+    100212: side grill
+    100214: side grill.001
+    100216: whell
+    100218: whell.001
+    100220: whell.002
+    100222: whell.003
+    100224: whell.004
+    100226: whell.005
+    100228: whell.006
+    100230: whell.007
+    100232: windows
+    100234: windows.001
+    400000: back
+    400002: back headlight.004
+    400004: back headlight.005
+    400006: back headlight.006
+    400008: back headlight.007
+    400010: back headlight.008
+    400012: back headlight.009
+    400014: back headlight.010
+    400016: back headlight.011
+    400018: back headlight.012
+    400020: back headlight.014
+    400022: back headlight.015
+    400024: back headlight.016
+    400026: back windows
+    400028: back.001
+    400030: back.002
+    400032: block in
+    400034: block in grill
+    400036: block in.001
+    400038: block in.002
+    400040: body
+    400042: body.001
+    400044: body.002
+    400046: body.003
+    400048: brake.001
+    400050: brake.002
+    400052: brake.003
+    400054: brake.004
+    400056: bumper
+    400058: //RootNode
+    400060: Circle.031
+    400062: Circle.032
+    400064: Cube.008
+    400066: Cylinder.002
+    400068: Cylinder.003
+    400070: Cylinder.004
+    400072: Cylinder.005
+    400074: Cylinder.006
+    400076: Cylinder.007
+    400078: door handle
+    400080: door handle.001
+    400082: door handle.002
+    400084: door handle.003
+    400086: Empty.005
+    400088: Empty.006
+    400090: frame
+    400092: front light
+    400094: front light.001
+    400096: front windows
+    400098: glass
+    400100: glass.001
+    400102: glass.002
+    400104: gril
+    400106: gril.001
+    400108: grill
+    400110: grill.001
+    400112: grill.002
+    400114: grill.003
+    400116: grill.004
+    400118: grill.005
+    400120: grill.006
+    400122: grill.007
+    400124: grill.008
+    400126: grill.009
+    400128: headlight
+    400130: headlight in
+    400132: headlight in.001
+    400134: headlight in.002
+    400136: headlight in.003
+    400138: headlight.001
+    400140: headlight.002
+    400142: headlight.003
+    400144: headlight.004
+    400146: headlight.005
+    400148: headlight.006
+    400150: headlight.007
+    400152: headlight.008
+    400154: headlight.009
+    400156: headlight.010
+    400158: headlight.011
+    400160: headlight.012
+    400162: headlight.013
+    400164: in headlight
+    400166: in mirror
+    400168: light
+    400170: light.001
+    400172: light.002
+    400174: light.003
+    400176: light.004
+    400178: light.005
+    400180: light.006
+    400182: logo
+    400184: logo.001
+    400186: logo.002
+    400188: logo.003
+    400190: logo.004
+    400192: mirror
+    400194: mirror.001
+    400196: pilar
+    400198: pillar.001
+    400200: rotor.001
+    400202: rotor.002
+    400204: rotor.003
+    400206: rotor.004
+    400208: rubber.001
+    400210: side
+    400212: side grill
+    400214: side grill.001
+    400216: whell
+    400218: whell.001
+    400220: whell.002
+    400222: whell.003
+    400224: whell.004
+    400226: whell.005
+    400228: whell.006
+    400230: whell.007
+    400232: windows
+    400234: windows.001
+    2100000: glossy black
+    2100002: mat_
+    2100004: mat .002
+    2100006: metal.001
+    2100008: Material.004
+    2100010: logo.001
+    2100012: brake.002
+    2100014: body.003
+    2100016: logo
+    2100018: glass.001
+    2100020: body
+    2100022: headlight.001
+    2100024: body.001
+    2100026: tire
+    2100028: tire.001
+    2100030: brake.001
+    2100032: mat
+    2100034: Material.007
+    2100036: mat.001
+    2100038: mat .001
+    2100040: back headlight
+    2100042: back healight.001
+    2100044: back healight
+    2100046: body.002
+    2100048: headlight
+    2300000: back
+    2300002: back headlight.004
+    2300004: back headlight.005
+    2300006: back headlight.006
+    2300008: back headlight.007
+    2300010: back headlight.008
+    2300012: back headlight.009
+    2300014: back headlight.010
+    2300016: back headlight.011
+    2300018: back headlight.012
+    2300020: back headlight.014
+    2300022: back headlight.015
+    2300024: back headlight.016
+    2300026: back windows
+    2300028: back.001
+    2300030: back.002
+    2300032: block in
+    2300034: block in grill
+    2300036: block in.001
+    2300038: block in.002
+    2300040: body
+    2300042: body.001
+    2300044: body.002
+    2300046: body.003
+    2300048: brake.001
+    2300050: brake.002
+    2300052: brake.003
+    2300054: brake.004
+    2300056: bumper
+    2300058: Circle.031
+    2300060: Circle.032
+    2300062: Cube.008
+    2300064: Cylinder.002
+    2300066: Cylinder.003
+    2300068: Cylinder.004
+    2300070: Cylinder.005
+    2300072: Cylinder.006
+    2300074: Cylinder.007
+    2300076: door handle
+    2300078: door handle.001
+    2300080: door handle.002
+    2300082: door handle.003
+    2300084: frame
+    2300086: front light
+    2300088: front light.001
+    2300090: front windows
+    2300092: glass
+    2300094: glass.001
+    2300096: glass.002
+    2300098: gril
+    2300100: gril.001
+    2300102: grill
+    2300104: grill.001
+    2300106: grill.002
+    2300108: grill.003
+    2300110: grill.004
+    2300112: grill.005
+    2300114: grill.006
+    2300116: grill.007
+    2300118: grill.008
+    2300120: grill.009
+    2300122: headlight
+    2300124: headlight in
+    2300126: headlight in.001
+    2300128: headlight in.002
+    2300130: headlight in.003
+    2300132: headlight.001
+    2300134: headlight.002
+    2300136: headlight.003
+    2300138: headlight.004
+    2300140: headlight.005
+    2300142: headlight.006
+    2300144: headlight.007
+    2300146: headlight.008
+    2300148: headlight.009
+    2300150: headlight.010
+    2300152: headlight.011
+    2300154: headlight.012
+    2300156: headlight.013
+    2300158: in headlight
+    2300160: in mirror
+    2300162: light
+    2300164: light.001
+    2300166: light.002
+    2300168: light.003
+    2300170: light.004
+    2300172: light.005
+    2300174: light.006
+    2300176: logo
+    2300178: logo.001
+    2300180: logo.002
+    2300182: logo.003
+    2300184: logo.004
+    2300186: mirror
+    2300188: mirror.001
+    2300190: pilar
+    2300192: pillar.001
+    2300194: rotor.001
+    2300196: rotor.002
+    2300198: rotor.003
+    2300200: rotor.004
+    2300202: rubber.001
+    2300204: side
+    2300206: side grill
+    2300208: side grill.001
+    2300210: whell
+    2300212: whell.001
+    2300214: whell.002
+    2300216: whell.003
+    2300218: whell.004
+    2300220: whell.005
+    2300222: whell.006
+    2300224: whell.007
+    2300226: windows
+    2300228: windows.001
+    3300000: back
+    3300002: back headlight.004
+    3300004: back headlight.005
+    3300006: back headlight.006
+    3300008: back headlight.007
+    3300010: back headlight.008
+    3300012: back headlight.009
+    3300014: back headlight.010
+    3300016: back headlight.011
+    3300018: back headlight.012
+    3300020: back headlight.014
+    3300022: back headlight.015
+    3300024: back headlight.016
+    3300026: back windows
+    3300028: back.001
+    3300030: back.002
+    3300032: block in
+    3300034: block in grill
+    3300036: block in.001
+    3300038: block in.002
+    3300040: body
+    3300042: body.001
+    3300044: body.002
+    3300046: body.003
+    3300048: brake.001
+    3300050: brake.002
+    3300052: brake.003
+    3300054: brake.004
+    3300056: bumper
+    3300058: Circle.031
+    3300060: Circle.032
+    3300062: Cube.008
+    3300064: Cylinder.002
+    3300066: Cylinder.003
+    3300068: Cylinder.004
+    3300070: Cylinder.005
+    3300072: Cylinder.006
+    3300074: Cylinder.007
+    3300076: door handle
+    3300078: door handle.001
+    3300080: door handle.002
+    3300082: door handle.003
+    3300084: frame
+    3300086: front light
+    3300088: front light.001
+    3300090: front windows
+    3300092: glass
+    3300094: glass.001
+    3300096: glass.002
+    3300098: gril
+    3300100: gril.001
+    3300102: grill
+    3300104: grill.001
+    3300106: grill.002
+    3300108: grill.003
+    3300110: grill.004
+    3300112: grill.005
+    3300114: grill.006
+    3300116: grill.007
+    3300118: grill.008
+    3300120: grill.009
+    3300122: headlight
+    3300124: headlight in
+    3300126: headlight in.001
+    3300128: headlight in.002
+    3300130: headlight in.003
+    3300132: headlight.001
+    3300134: headlight.002
+    3300136: headlight.003
+    3300138: headlight.004
+    3300140: headlight.005
+    3300142: headlight.006
+    3300144: headlight.007
+    3300146: headlight.008
+    3300148: headlight.009
+    3300150: headlight.010
+    3300152: headlight.011
+    3300154: headlight.012
+    3300156: headlight.013
+    3300158: in headlight
+    3300160: in mirror
+    3300162: light
+    3300164: light.001
+    3300166: light.002
+    3300168: light.003
+    3300170: light.004
+    3300172: light.005
+    3300174: light.006
+    3300176: logo
+    3300178: logo.001
+    3300180: logo.002
+    3300182: logo.003
+    3300184: logo.004
+    3300186: mirror
+    3300188: mirror.001
+    3300190: pilar
+    3300192: pillar.001
+    3300194: rotor.001
+    3300196: rotor.002
+    3300198: rotor.003
+    3300200: rotor.004
+    3300202: rubber.001
+    3300204: side
+    3300206: side grill
+    3300208: side grill.001
+    3300210: whell
+    3300212: whell.001
+    3300214: whell.002
+    3300216: whell.003
+    3300218: whell.004
+    3300220: whell.005
+    3300222: whell.006
+    3300224: whell.007
+    3300226: windows
+    3300228: windows.001
+    4300000: windows.001
+    4300002: windows
+    4300004: whell.005
+    4300006: whell.004
+    4300008: whell.001
+    4300010: whell
+    4300012: side grill.001
+    4300014: side grill
+    4300016: side
+    4300018: rubber.001
+    4300020: rotor.003
+    4300022: rotor.002
+    4300024: pillar.001
+    4300026: pilar
+    4300028: mirror.001
+    4300030: mirror
+    4300032: logo.004
+    4300034: logo.003
+    4300036: logo.002
+    4300038: logo.001
+    4300040: logo
+    4300042: light.006
+    4300044: light.005
+    4300046: light.004
+    4300048: light.003
+    4300050: light.002
+    4300052: light.001
+    4300054: light
+    4300056: in mirror
+    4300058: in headlight
+    4300060: headlight.013
+    4300062: headlight.012
+    4300064: headlight.011
+    4300066: headlight.010
+    4300068: headlight.009
+    4300070: headlight.008
+    4300072: headlight.007
+    4300074: headlight.006
+    4300076: headlight.005
+    4300078: headlight.004
+    4300080: headlight.003
+    4300082: headlight.002
+    4300084: headlight.001
+    4300086: headlight in.003
+    4300088: headlight in.002
+    4300090: headlight in.001
+    4300092: headlight in
+    4300094: headlight
+    4300096: grill.009
+    4300098: grill.008
+    4300100: grill.007
+    4300102: grill.006
+    4300104: grill.005
+    4300106: grill.004
+    4300108: grill.003
+    4300110: grill.002
+    4300112: grill.001
+    4300114: grill
+    4300116: gril.001
+    4300118: gril
+    4300120: glass.002
+    4300122: glass.001
+    4300124: glass
+    4300126: front windows
+    4300128: front light.001
+    4300130: front light
+    4300132: frame
+    4300134: whell.007
+    4300136: whell.006
+    4300138: rotor.004
+    4300140: Cylinder.004
+    4300142: brake.004
+    4300144: whell.003
+    4300146: whell.002
+    4300148: rotor.001
+    4300150: Cylinder.002
+    4300152: brake.001
+    4300154: door handle.003
+    4300156: door handle.002
+    4300158: door handle.001
+    4300160: door handle
+    4300162: Cylinder.005
+    4300164: Cylinder.003
+    4300166: Cylinder.006
+    4300168: Cylinder.007
+    4300170: Cube.008
+    4300172: Circle.031
+    4300174: Circle.032
+    4300176: bumper
+    4300178: brake.003
+    4300180: brake.002
+    4300182: body.003
+    4300184: body.002
+    4300186: body.001
+    4300188: body
+    4300190: block in.002
+    4300192: block in.001
+    4300194: block in grill
+    4300196: block in
+    4300198: back.002
+    4300200: back.001
+    4300202: back windows
+    4300204: back headlight.016
+    4300206: back headlight.015
+    4300208: back headlight.014
+    4300210: back headlight.012
+    4300212: back headlight.011
+    4300214: back headlight.010
+    4300216: back headlight.009
+    4300218: back headlight.008
+    4300220: back headlight.007
+    4300222: back headlight.006
+    4300224: back headlight.005
+    4300226: back headlight.004
+    4300228: back
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
